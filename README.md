@@ -1,4 +1,4 @@
-# World Layoffs Analysis Project
+# World Layoffs SQL Data Analysis Project
 
 ## 📊 Project Overview
 This project analyzes global company layoffs data from March 2020 to October 2024. The analysis focuses on understanding layoff patterns across different companies, industries, and countries using MySQL for data analysis.
